@@ -41,6 +41,6 @@ function findSmallestMissingPositive(orderNumbers) {
 
 }
 
-console.log(findSmallestMissingPositive([5,4,3,2,1,6]));      // expected 2
+console.log(findSmallestMissingPositive([2,1,7]));      // expected 2
 console.log(findSmallestMissingPositive([3, 4, -1, 1]));  // expected 2
 console.log(findSmallestMissingPositive([7, 8, 9, 11]));  // expected 1
